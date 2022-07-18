@@ -131,7 +131,7 @@ table span{
     height: 60px;
     text-align: center;
     padding: 10px 0;
-    background-color: #252422;
+    background-color: #8ec4c7;
     margin:0;
     width: 100%;
     font-size: 1.5vw;
@@ -144,38 +144,49 @@ a, a:visited{
     color:#343a40;
 }
   
-.ae{
+/* .ae{
     background-color: #feffd8;
-}
-.dsd {
+} */
+.mi{
     background-color: #a5d8ee;
+    /* me301 */
 }
-.aad{
-    background-color: #f6c4c4;
+.ht{
+    background-color: rgb(196, 90, 92);
+    /* me302 */
 }
-.jec{
+.dmd{
     background-color: #b7ece3;
+    /* me303 */
 }
-.dsdl{
-    background-color: #c87fe3;
+.ae{
+    background-color: rgb(128,0,128);
+    /* me304 */
 }
-.ael{
-    background-color: #d3a2ee;
+.ce{
+    background-color: rgb(126, 176, 86);
+    /* me305 */
 }
-.pta{
+
+.pom{
     background-color: rgb(227, 248, 206);
+    /* sm302 */
 }
-.lam{
-    background-color: rgb(235, 212, 216);
-}
-.mft{
+.ml1{
     background-color: #ffdf80;
+    /* me308 */
+}
+.mcl{
+    background-color: #9999ff;
+    /* me306 */
 }
 .ptanhi{
     background-color: #ffb3ff;
+    /* unknown */
 }
-.eg{
-    background-color: #9999ff;
+.ael{
+    background-color: #d3a2ee;
+    
 }
 
 @media(max-width:650px){
